@@ -2,8 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/bin
-/.vs/DemoWebApi6
-/obj
-/Properties/PublishProfiles
-/Properties/ServiceDependencies
+/.vs/DemoWebApi6/v17
+/DemoWebApi6/.vs/DemoWebApi6/FileContentIndex
+/DemoWebApi6/bin/Release/net6.0
+/DemoWebApi6/obj
+/DemoWebApi6/Properties/PublishProfiles
+/DemoWebApi6/Properties/ServiceDependencies
